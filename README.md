@@ -1,11 +1,12 @@
-# Online Conformal Selection with Accept-to-Reject Changes 
-This repository is the official implementation and appendix of **Online Conformal Selection with Accept-to-Reject Changes (OCS-ARC)**.
+This repository is the official implementation of Online Candidate Selection with False Discovery Rate Control.
+
+The conference version is at AAAI26 Online Conformal Selection with Accept-to-Reject Changes.
 
 ## How to Install
 ```bash
 # Clone the repository
-git clone https://github.com/J4ckLiu/OCS-ARC.git
-cd OCS-ARC
+git clone https://github.com/J4ckLiu/OnlineCS.git
+cd OnlineCS
 
 # Create and activate Conda environment
 conda env create -f environment.yml
